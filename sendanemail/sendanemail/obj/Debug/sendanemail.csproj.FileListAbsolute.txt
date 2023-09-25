@@ -1,0 +1,93 @@
+D:\C#\sendanemail\sendanemail\bin\Debug\sendanemail.exe.config
+D:\C#\sendanemail\sendanemail\bin\Debug\sendanemail.exe
+D:\C#\sendanemail\sendanemail\bin\Debug\sendanemail.pdb
+D:\C#\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.AssemblyReference.cache
+D:\C#\sendanemail\sendanemail\obj\Debug\sendanemail.Form3.resources
+D:\C#\sendanemail\sendanemail\obj\Debug\sendanemail.Properties.Resources.resources
+D:\C#\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.GenerateResource.cache
+D:\C#\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.CoreCompileInputs.cache
+D:\C#\sendanemail\sendanemail\obj\Debug\sendanemail.exe
+D:\C#\sendanemail\sendanemail\obj\Debug\sendanemail.pdb
+D:\C#\sendanemail\sendanemail\obj\Debug\sendanemail.DangNhap.resources
+D:\C#\sendanemail\sendanemail\obj\Debug\sendanemail.DangKy.resources
+D:\C#\sendanemail\sendanemail\bin\Debug\Database1.mdf
+D:\C#\sendanemail\sendanemail\bin\Debug\Database1_log.ldf
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\bin\Debug\Database1.mdf
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\bin\Debug\Database1_log.ldf
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\bin\Debug\sendanemail.exe.config
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\bin\Debug\sendanemail.exe
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\bin\Debug\sendanemail.pdb
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.AssemblyReference.cache
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\obj\Debug\sendanemail.DangNhap.resources
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\obj\Debug\sendanemail.DangKy.resources
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\obj\Debug\sendanemail.Form3.resources
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\obj\Debug\sendanemail.Properties.Resources.resources
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.GenerateResource.cache
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.CoreCompileInputs.cache
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\obj\Debug\sendanemail.exe
+C:\Users\locdo\Downloads\Compressed\New folder (4)\sendanemail\sendanemail\obj\Debug\sendanemail.pdb
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\bin\Debug\Database1.mdf
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\bin\Debug\Database1_log.ldf
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\bin\Debug\sendanemail.exe.config
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\bin\Debug\sendanemail.exe
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\bin\Debug\sendanemail.pdb
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.AssemblyReference.cache
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\obj\Debug\sendanemail.DangNhap.resources
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\obj\Debug\sendanemail.DangKy.resources
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\obj\Debug\sendanemail.Properties.Resources.resources
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.GenerateResource.cache
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.CoreCompileInputs.cache
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\obj\Debug\sendanemail.exe
+C:\Users\Trong Khanh\Downloads\New folder\sendanemail\sendanemail\obj\Debug\sendanemail.pdb
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\bin\Debug\Database1.mdf
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\bin\Debug\Database1_log.ldf
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\bin\Debug\sendanemail.exe.config
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\bin\Debug\sendanemail.exe
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\bin\Debug\sendanemail.pdb
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.AssemblyReference.cache
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\obj\Debug\sendanemail.DangNhap.resources
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\obj\Debug\sendanemail.DangKy.resources
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\obj\Debug\sendanemail.Properties.Resources.resources
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.GenerateResource.cache
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.CoreCompileInputs.cache
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\obj\Debug\sendanemail.exe
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\obj\Debug\sendanemail.pdb
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\bin\Debug\Database1.mdf
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\bin\Debug\Database1_log.ldf
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\bin\Debug\sendanemail.exe.config
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\bin\Debug\sendanemail.exe
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\bin\Debug\sendanemail.pdb
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.AssemblyReference.cache
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.DangNhap.resources
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.DangKy.resources
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.Properties.Resources.resources
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.GenerateResource.cache
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.CoreCompileInputs.cache
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.exe
+D:\File của đệ\LTW\GK\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.pdb
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\bin\Debug\Database1.mdf
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\bin\Debug\Database1_log.ldf
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\bin\Debug\sendanemail.exe.config
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\bin\Debug\sendanemail.exe
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\bin\Debug\sendanemail.pdb
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.AssemblyReference.cache
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.DangNhap.resources
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.DangKy.resources
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.Properties.Resources.resources
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.GenerateResource.cache
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.CoreCompileInputs.cache
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.exe
+C:\Users\Trong Khanh\Downloads\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.pdb
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\bin\Debug\Database1.mdf
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\bin\Debug\Database1_log.ldf
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\bin\Debug\sendanemail.exe.config
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\bin\Debug\sendanemail.exe
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\bin\Debug\sendanemail.pdb
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.AssemblyReference.cache
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.DangNhap.resources
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.DangKy.resources
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.Properties.Resources.resources
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.GenerateResource.cache
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.csproj.CoreCompileInputs.cache
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.exe
+D:\File của đệ\LTW\sendanemail\sendanemail\sendanemail\sendanemail\obj\Debug\sendanemail.pdb
